@@ -1,0 +1,11 @@
+touch s.txt
+ls
+touch s2.txt
+ls
+touch s3.txt
+ls
+touch s4.txt
+ls
+touch s5.txt
+ls
+tree
