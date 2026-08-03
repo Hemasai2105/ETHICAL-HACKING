@@ -1,0 +1,12 @@
+touch eh.txt
+
+nano eh.txt
+
+more eh.txt
+
+less eh.txt
+
+vi eh.txt
+
+cat eh.txt
+
