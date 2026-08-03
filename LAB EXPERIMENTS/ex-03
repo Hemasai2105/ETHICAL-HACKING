@@ -1,0 +1,11 @@
+mkdir eh
+cd eh
+mkdir t1
+touch ul.txt
+tree ul.txt
+nano ul.txt
+head-2 ul.txt
+head-4 ul.txt
+tail-2 ul.txt
+tail-4 ul.txt
+
