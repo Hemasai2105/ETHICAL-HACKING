@@ -1,0 +1,12 @@
+update
+date
+touch eh.txt
+ls
+mv eh.txt
+mv eh.txt eth.txt
+ls
+mkdir eh
+cd eh
+touch syllabus.txt
+nano syllabus.txt
+cat syllabus.txt
